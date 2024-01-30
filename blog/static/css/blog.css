@@ -40,7 +40,10 @@ h4 {
     color: #ffffff;
     float: right;
     font-size: 26pt;
-    margin-right: 20px;
+    margin-left: 10px;
+    background: transparent;
+    border: none;
+    outline: none;
 }
 
 .post {
@@ -55,6 +58,7 @@ h4 {
 .post > .date,
 .post > .actions {
     float: right;
+    margin-left: 10px;
 }
 
 .btn-secondary,
