@@ -1,0 +1,10 @@
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.log
+*.pot
+db.sqlite3
+.gitignore
+.git*
